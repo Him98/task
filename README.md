@@ -1,0 +1,1 @@
+requirement.txt contains all the libraries imported along with their versions in notebook. 
